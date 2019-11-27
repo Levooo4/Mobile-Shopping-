@@ -1,0 +1,16 @@
+
+
+package association;
+
+
+public class serial_number {
+     int serial;
+    String relace_date;
+
+    public serial_number(int serial, String relace_date) {
+        this.serial =serial;
+        
+        
+        this.relace_date = relace_date;
+    }
+}
