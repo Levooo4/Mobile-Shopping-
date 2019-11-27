@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 public class SecClass {
 
-    Scanner E = new Scanner(System.in);
+    Scanner E =  new Scanner(System.in);
 
     public static int pis = 10;
 
