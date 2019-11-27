@@ -10,7 +10,7 @@ public class FirstClass extends Login {
 
     }
 
-    public static void main(String[] args) {
+    public static  void main(String[] args) {
         FirstClass ob = new FirstClass();
         Log ob1 = new Login();
         ob1.login();
